@@ -1,0 +1,2 @@
+module CoreJavaPart2 {
+}

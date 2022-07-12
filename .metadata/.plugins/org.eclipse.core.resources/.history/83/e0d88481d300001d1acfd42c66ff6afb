@@ -1,0 +1,15 @@
+package Main;
+
+
+
+class DefaultConstructor{
+	int x;
+
+
+DefaultConstructor(){
+	x=10;
+}
+
+
+
+}

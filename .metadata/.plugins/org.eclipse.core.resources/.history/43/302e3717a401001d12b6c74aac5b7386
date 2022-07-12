@@ -1,0 +1,21 @@
+package Main;
+
+class Employee {
+	String LearnerCourse="Java";
+}
+	
+	
+	class Employee extends SInheritance
+	{
+		String assesment="ELAt";
+	public static void main(String[] args)
+	{
+	
+		Employee e=new Employee();
+		e.LearnerCourse;
+		e.assesment;
+				
+
+	}
+
+}

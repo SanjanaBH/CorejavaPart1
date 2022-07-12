@@ -1,0 +1,17 @@
+package com.java;
+
+public class Student {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int rollno=32;
+		String name="Sanjana";
+	
+		void display() {
+			System.out.println("Roll No:"+rollno);
+		}
+		
+	}
+
+}

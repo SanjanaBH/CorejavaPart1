@@ -1,0 +1,11 @@
+package Main;
+
+
+class Const{
+	int x;
+	
+	Const(){
+		x=10;
+	}
+	
+}

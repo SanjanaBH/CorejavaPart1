@@ -1,0 +1,22 @@
+package Main;
+
+
+class myclass{
+	int RollNo;
+	String name,city;
+	
+	myclass(int RollNo,String name,String city){
+		this.name=name;
+		this.RollNo=RollNo;
+		this.city=city;
+	}
+}
+public class Students {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		myclass m1=new myclass(12,"Sanjana","Mumbai");
+		System.out.println("The student data is:"+m1);
+	}
+
+}
